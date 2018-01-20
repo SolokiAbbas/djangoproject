@@ -16,7 +16,8 @@ Coding process:
 5. Allow Users to log out
 6. Allow Users to say logged in
 
-
+Status:
+1 experimentation left
 ---
 
 #### Experimentations:
