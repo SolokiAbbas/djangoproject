@@ -15,10 +15,8 @@ Coding process:
 4. Allow Users to Login
 5. Allow Users to log out
 6. Allow Users to say logged in
+7. Sessions (request)
 
 Status:
-1 experimentation left
+Completed Testing Phase
 ---
-
-#### Experimentations:
-1. Sessions (Session Tokens)
